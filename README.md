@@ -1,6 +1,6 @@
 ### Cartão de credito
 
-#Projeto simula cartao de credito Onde o usuário acrescenta um valor simbólico como limite
+# Projeto simula cartao de credito Onde o usuário acrescenta um valor simbólico como limite
 e vai fazendo a descrição da compra e do valor que vai sendo subtraído do valor 
 limite.
 
